@@ -58,7 +58,7 @@
             "free_text": "Frei",
             "gift_certificate_text": "Geschenkgutschein",
             "handling_text": "Handhabung",
-            "item_count_text": "{Anzahl, Plural, eins{1 Item} weitere{# Items} }",
+            "item_count_text": "{count, plural, one{1 Artikel} other{# Artikel} }",
             "print_action": "Drucken",
             "remaining_text": "Verbleibend",
             "remove_action": "Entfernen",
